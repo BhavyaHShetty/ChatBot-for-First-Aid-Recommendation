@@ -1,22 +1,22 @@
-# ChatBot-for-Mental-Health-Conversations
+# ChatBot-for-First Aid Recommendation
 
-This project aims to develop a chatbot for mental health conversations, providing support and resources to individuals seeking help. The chatbot utilizes natural language processing techniques and a dataset sourced from Kaggle to understand user queries and provide appropriate responses.
+This project aims to develop a chatbot for First Aid conversations, providing support and resources to individuals seeking help. The chatbot utilizes natural language processing techniques and a dataset sourced from Kaggle to understand user queries and provide appropriate responses.
 
 # Features
 
 - Natural Language Processing (NLP): The chatbot utilizes NLP algorithms to understand user inputs and generate meaningful responses. It employs techniques such as text classification, sentiment analysis, and named entity recognition to accurately interpret user queries.
 
-- Mental Health Resources: The chatbot is designed to provide relevant resources and information related to mental health.
+- First Aid Resources: The chatbot is designed to provide relevant resources and information related to First Aid.
 
 - Deployment: The chatbot is deployed using Flask and is accessible through a user-friendly web interface.
 
 # Dataset
 
-https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data
+httpsl-data](https://www.kaggle.com/datasets/therealsampat/intents-for-first-aid-recommendations
 
 # Usage
 
-Simply type your queries or concerns, and the chatbot will respond accordingly. Please note that while the chatbot is designed to provide support, it is not a substitute for professional medical or mental health advice. If you are in need of immediate assistance, please contact a licensed professional or a helpline in your country.
+Simply type your queries or concerns, and the chatbot will respond accordingly. Please note that while the chatbot is designed to provide support, it is not a substitute for professional medical or First Aid advice. If you are in need of immediate assistance, please contact a licensed professional or a helpline in your country.
 
 # Technologies Used
 
